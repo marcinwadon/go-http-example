@@ -1,5 +1,5 @@
 Go Http Example
 ---
 
-`go get`
-`go run *.go`
+* `go get`
+* `go run *.go`
